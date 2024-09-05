@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkaweme
-- 👀 I’m interested in Web and Application development.
-- 🌱 I’m currently learning html, css, Java, Javacript, react and react native.
-- 💞️ I’m looking to collaborate on anything web and app development. Hoping to join some open source projects too.
+- 👀 I’m interested in Web and mobile app development.
+- 🌱 I’m currently learning typescript and nextjs.
+- 💞️ I’m looking to collaborate on anything web and mobile app development. Hoping to join some open source projects too.
 - 📫 How to reach me Twitter: @kaweme
 
 <!---
